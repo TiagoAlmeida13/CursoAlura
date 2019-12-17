@@ -1,4 +1,4 @@
-Joguinho criado como tarefa do curso da Alura.
+Jogo do PONG criado como tarefa do curso da Alura.
 
 Pong create with JavaScript.
 
